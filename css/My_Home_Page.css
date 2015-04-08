@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+
+.main_wrapper {
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	border: 1px dotted gray;
+	padding-left: 0px;
+	padding-right: 0px;
+	height: 100%;
+	font-family: sans-serif;
+}
+
+.main_heading {
+	text-align: center;
+	font-size: 40px;
+}
+
+.sub_heading {
+	text-align: center;
+}
+
+.link_buttons {
+	background-color: green;
+	color: white;
+	padding-left: 10px;
+}
+
+.button_panel {
+	margin-bottom: 20px;
+	background-color: transparent;
+	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+	margin-top: 0px;
+	padding-top: 0px;
+	border: none;
+}
+
+ul {
+	list-style-type: none;
+}
+
+
+.button_centre {
+	text-align: center;
+}
